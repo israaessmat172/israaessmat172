@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=israaessmat172" alt="israaessmat172" /></a> </p>
 
-- 🔭 I’m currently working on **web development technologies like JavaScript, NodeJs**
+- 🔭 I’m currently working on **web development technologies like NodeJs, Django**
 
 - 🌱 I’m currently learning **NodeJs**
 
